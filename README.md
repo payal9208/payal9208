@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Payal
 
-<!--
-**payal9208/payal9208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student  
+💻 Interested in Software Development  
+🌱 Currently learning Java, Python, HTML & CSS
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Python
+- HTML
+- CSS
+- Git & GitHub
+
+## 📌 Projects
+
+- Student projects using Java and Python
+- Currently building projects to improve my programming skills
+
+## 🎯 Career Goal
+
+To become a skilled software developer and build useful real-world applications.
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/payal9208
+- LinkedIn: Add your LinkedIn profile here
+
+---
+
+⭐ Thanks for visiting my profile!
